@@ -10,7 +10,8 @@ def main():
          name = 'world!'
          a = 0
 #     print 'hello'   
-     print 'hello', name, a
+     print 'hello', name, a 
+     print 'Hi there!'
     
 if __name__ == '__main__':
     main()
